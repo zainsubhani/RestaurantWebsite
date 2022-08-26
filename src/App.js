@@ -1,4 +1,5 @@
 import React from "react";
+import Chef from "./Components/Chef";
 import History from "./Components/History";
 import Key from "./Components/Key";
 import Menu from "./Components/Menu";
@@ -11,6 +12,7 @@ const App = () => {
       <Key />
       <History />
       <Menu />
+      <Chef />
     </div>
   );
 };

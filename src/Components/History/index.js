@@ -5,7 +5,7 @@ import spoon from "../../assets/spoon.png";
 import "../History/style.css";
 const History = () => {
   return (
-    <div className="h-screen w-screen">
+    <div className="h-screen ">
       <div className="example1  grid grid-cols-3 px-96 py-44 flex justify-between ">
         <div className="relative flex items-center justify-center">
           <div className=" absolute -left-0 w-full w-full ">
